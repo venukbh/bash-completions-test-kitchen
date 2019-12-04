@@ -1,7 +1,9 @@
-These provide kitchen command completetions Make sure you have kitchen installed
+This file provides kitchen command completetions
 
-Source this file into your bash or add it to your bash_completion folder :
+Make sure you have kitchen installed
 
-source /path_to_file/kitchen-completion.sh
+Source this file into your bash profile or add it to your bash_completion folder :
+
+source /path-to-folder/bash-completions-test-kitchen/kitchen-completion.sh
 
 Last verified with kitchen version 1.24.0
